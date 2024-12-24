@@ -12,3 +12,4 @@ From now on problems must have been solved and commented properly (explained).
 8. remove element
 9. reverse string
 10. find index of first occurrence in a string
+11. Search insert position
